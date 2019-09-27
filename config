@@ -170,3 +170,6 @@ for_window [class="Google-chrome"] border pixel 0
 for_window [class="Spotify"] border pixel 0
 for_window [class="Atom"] border pixel 0 
 for_window [class="Code"] border pixel 0
+
+# Screen Shots
+bindsym $mod+p exec scrot '%Y-%m-%d-%s_screenshot_$wx$h.png' -e 'mv $f ~/Downloads'
