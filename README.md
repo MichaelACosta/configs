@@ -13,3 +13,10 @@
 # xorg.conf.d/00-keyboard.conf
 
 ~/../../etc/X11/xorg.conf.d/00-keyboard.conf
+
+# zshrc
+
+~/.zshrc
+~/.zsh/...
+
+Have a config to use git autocomplete on tmux-zsh
